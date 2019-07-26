@@ -1,1 +1,1 @@
-new textfile 1 modified
+new textfile 1 updated
